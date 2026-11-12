@@ -1,0 +1,4 @@
+{
+  "MOONETIX_APP_ID": "your-24-character-app-id",
+  "API_BASE_URL": "http://10.0.2.2:3000"
+}
