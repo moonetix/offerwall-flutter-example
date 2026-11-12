@@ -10,7 +10,7 @@
 [![Flutter 3.27+](https://img.shields.io/badge/flutter-3.27%2B-02569B)](https://moonetix.com/academy/integrations/flutter-offerwall)
 [![Server: zero dependencies](https://img.shields.io/badge/server-zero%20dependencies-brightgreen)](https://moonetix.com/industries/apps)
 
-An Android and iOS app built with the [Moonetix](https://moonetix.com) `moonetix_offerwall` plugin, plus a Node.js server in `server/`. Moonetix is a pay-per-result affiliate network: your users earn your own currency by completing offers, and you earn per completed offer. The app holds no key. Your server creates a single-use session for the signed-in user, and only your server changes balances.
+An Android and iOS app built with the [Moonetix](https://moonetix.com) `moonetix_offerwall` plugin, plus a Node.js server in `server/`. Moonetix is an affiliate network: your users earn your own currency by completing offers, and you earn per completed offer. The app holds no key. Your server creates a single-use session for the signed-in user, and only your server changes balances.
 
 > **Get your App ID and keys: sign up free at https://moonetix.com/register?from=github-offerwall-flutter-example**
 
