@@ -13,7 +13,7 @@ dependencies:
   # Moonetix offerwall plugin, from the Moonetix package repository.
   moonetix_offerwall:
     hosted: https://moonetix.com/pub
-    version: ^2.0.0
+    version: ^2.0.1
   http: 1.6.0
 
 dev_dependencies:

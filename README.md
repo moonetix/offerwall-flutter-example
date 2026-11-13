@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 [![Docs](https://img.shields.io/badge/docs-Flutter%20SDK-004ABB)](https://docs.moonetix.com/flutter-sdk)
 [![Get keys](https://img.shields.io/badge/get%20keys-moonetix.com-004ABB)](https://moonetix.com/register?from=github-offerwall-flutter-example)
-[![moonetix_offerwall 2.0.0](https://img.shields.io/badge/moonetix__offerwall-2.0.0-02569B)](https://moonetix.com/integrations/flutter)
+[![moonetix_offerwall 2.0.1](https://img.shields.io/badge/moonetix__offerwall-2.0.1-02569B)](https://moonetix.com/integrations/flutter)
 [![Flutter 3.27+](https://img.shields.io/badge/flutter-3.27%2B-02569B)](https://moonetix.com/academy/integrations/flutter-offerwall)
 [![Server: zero dependencies](https://img.shields.io/badge/server-zero%20dependencies-brightgreen)](https://moonetix.com/industries/apps)
 
@@ -93,7 +93,7 @@ The plugin comes from the Moonetix package repository, exactly as the docs show:
 dependencies:
   moonetix_offerwall:
     hosted: https://moonetix.com/pub
-    version: ^2.0.0
+    version: ^2.0.1
 ```
 
 It brings the Android SDK, the Moonetix Maven repository, its R8 rules and the iOS SDK with it. After adding it to your own app, stop the app and build it again: hot reload does not add native code.

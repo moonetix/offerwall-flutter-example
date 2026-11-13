@@ -143,10 +143,10 @@ packages:
     dependency: "direct main"
     description:
       name: moonetix_offerwall
-      sha256: "54fc153ee2b33ebbd3a2cd7b9b34d4437285491148621f80fe0269f00a2b86c7"
+      sha256: "379ba853aaae3e22f5365d43afd9d5250477b5dc87f7a6050b7a475b59ed6f03"
       url: "https://moonetix.com/pub/"
     source: hosted
-    version: "2.0.0"
+    version: "2.0.1"
   path:
     dependency: transitive
     description:
